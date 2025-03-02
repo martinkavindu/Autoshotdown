@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Autoshutdown\Autoshutdown\bin\Debug\Autoshutdown.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Autoshutdown\Autoshutdown\bin\Debug\Autoshutdown.exe
+c:\users\user\documents\visual studio 2015\Projects\Autoshutdown\Autoshutdown\bin\Debug\Autoshutdown.pdb
+c:\users\user\documents\visual studio 2015\Projects\Autoshutdown\Autoshutdown\obj\Debug\Autoshutdown.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Autoshutdown\Autoshutdown\obj\Debug\Autoshutdown.exe
+c:\users\user\documents\visual studio 2015\Projects\Autoshutdown\Autoshutdown\obj\Debug\Autoshutdown.pdb
